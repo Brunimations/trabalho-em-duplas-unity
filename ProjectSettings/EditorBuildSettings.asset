@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/cena de teste.unity
+    guid: 73b2496d49d577e4ea41aa7d6990a621
+  - enabled: 1
+    path: Assets/Scenes/fase.unity
+    guid: 872214f222fe01443b8b94c2a61d68c5
+  - enabled: 1
+    path: Assets/Scenes/fase1.unity
+    guid: 19afe485d31e56f42b0d1ea2ac04db2f
+  - enabled: 1
+    path: Assets/Scenes/Teladecomemoracao.unity
+    guid: 08a129f321316514b82094e9317cee0c
+  - enabled: 1
+    path: Assets/Scenes/fase2.unity
+    guid: 5c643c2cb4eb67f40b6558f1b8489687
+  - enabled: 1
+    path: Assets/Scenes/fase3.unity
+    guid: d9396ee0bae32194c8bba13f406688e3
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/mortefase1.unity
+    guid: 73b1bd851c8492f4f84b8be0c5800323
+  - enabled: 1
+    path: Assets/Scenes/mortefase2.unity
+    guid: e20c928728cc5ed4b8c08c119155e438
+  - enabled: 1
+    path: Assets/Scenes/mortefase3.unity
+    guid: 160d6f1de51a6b04698a97e9614fabfc
+  - enabled: 1
+    path: Assets/Scenes/mortefase4.unity
+    guid: 6ce42d0e792aec8459cf86edaffd3dd6
+  - enabled: 1
+    path: Assets/Scenes/fase4.unity
+    guid: fadd379a626460d478e8756b7b0e328d
+  m_configObjects: {}
